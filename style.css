@@ -319,11 +319,6 @@ footer a:hover {
 	}
 
 	.hero {
-		background-size: auto;
-		background-position: auto;
-		background-repeat: no-repeat;
-		height: 80vh;
-		width: auto;
 		padding: 20px 10px;
 	}
 
@@ -348,10 +343,6 @@ footer a:hover {
 	}
 
 	.hero {
-		background-size: auto;
-		background-position: auto;
-		background-repeat: no-repeat;
-		height: 80vh;
 		width: auto;
 		padding: 20px 10px;
 	}
