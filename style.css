@@ -20,11 +20,6 @@ body {
 	z-index: 100;
 }
 
-#hlogo {
-	width: 90px;
-	height: 90px;
-}
-
 header {
 	background-color: lightblue;
 	display: flex;
@@ -36,6 +31,7 @@ header {
 header h1 {
 	margin: 0;
 	color: black;
+	text-decoration: none;
 }
 
 header nav ul {
@@ -63,7 +59,7 @@ main {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 20px;
-	
+
 }
 
 .hero {
@@ -110,6 +106,7 @@ main {
 	text-decoration: underline;
 	color: green;
 }
+
 .products {
 	display: flex;
 	flex-wrap: wrap;
@@ -203,6 +200,7 @@ main {
 	background-color: transparent;
 	text-align: center;
 }
+
 .btn-sm:hover {
 	background-color: blueviolet;
 }
